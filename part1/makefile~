@@ -1,2 +1,0 @@
-prodcon:	producerConsumer.c
-	gcc -o prodcon -pthread producerConsumer.c
