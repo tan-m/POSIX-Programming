@@ -9,4 +9,4 @@ part2 - four LINUX processes, one for each of the three producers and one for th
 
 To run the program, type the following at the shell  
 1. make  
-2. ./prodcon
+2. ./prodcon  
